@@ -55,27 +55,27 @@ Spring Boot 3.3.5
     # DB
     ## PostgreSQL
     spring.datasource.url=jdbc:postgresql://choki.co.kr:5432/postgres
-    spring.datasource.username=ubuntu
-    spring.datasource.password=c102ssafy102
+    spring.datasource.username=
+    spring.datasource.password=
     spring.datasource.driver-class-name=org.postgresql.Driver
 
     # MongoDB
     spring.data.mongodb.host=k11c102.p.ssafy.io
     spring.data.mongodb.port=29000
-    spring.data.mongodb.database=choki
-    spring.data.mongodb.username=c102ssafy
-    spring.data.mongodb.password=c102ssafy102!!
+    spring.data.mongodb.database=
+    spring.data.mongodb.username=
+    spring.data.mongodb.password=
     spring.data.mongodb.authentication-database=choki
 
     # Redis
     spring.data.redis.port=46379
-    spring.data.redis.host=k11c102.p.ssafy.io
-    spring.data.redis.password=c102ssafy102
+    spring.data.redis.host=
+    spring.data.redis.password=
 
     # ElasticSearch
-    spring.data.elasticsearch.username=c102
-    spring.data.elasticsearch.password=c102c102
-    spring.data.elasticsearch.uris=ip-172-26-7-194:9200
+    spring.data.elasticsearch.username=
+    spring.data.elasticsearch.password=
+    spring.data.elasticsearch.uris=
 
     # JPA
     spring.jpa.show-sql=true
@@ -119,8 +119,8 @@ Spring Boot 3.3.5
     springdoc.paths-to-match=/api/**
 
     # Amazon S3
-    spring.cloud.aws.credentials.access-key=AKIA3C6FL6CXIGG5Y7MW
-    spring.cloud.aws.credentials.secret-key=ONa0KeReGUwB7i+XqmlLFnGauh5gqC5jgabdwEk
+    spring.cloud.aws.credentials.access-key=
+    spring.cloud.aws.credentials.secret-key=
     spring.cloud.aws.region.static=ap-southeast-2
     spring.cloud.aws.s3.region=ap-southeast-2
     spring.cloud.aws.s3.bucket=choki-s3
