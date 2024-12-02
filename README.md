@@ -125,7 +125,7 @@
 
 ### ERD
 
-![ERD](https://github.com/user-attachments/assets/8fb9e036-8dd0-4878-8d8d-21bfd090dd5b)
+![ERD](https://github.com/user-attachments/assets/6edc9659-16ec-402b-84cc-606861f94c80)
 
 ### MongoDB Document Structure
 
